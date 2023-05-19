@@ -616,7 +616,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: holo-test-2304
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: C:\workspace\holo-test-2304\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: holo-test-2304
   metroCertificateIssuer: holo-test-2304
